@@ -1,0 +1,13 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by Fernflower decompiler)
+//
+
+package com.example.aslihan.bitirme;
+
+public final class R$menu {
+    public static final int menu_my = 2131558400;
+
+    public R$menu() {
+    }
+}

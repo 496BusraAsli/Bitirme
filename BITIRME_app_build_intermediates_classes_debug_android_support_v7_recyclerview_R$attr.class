@@ -1,0 +1,16 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by Fernflower decompiler)
+//
+
+package android.support.v7.recyclerview;
+
+public final class R$attr {
+    public static final int layoutManager = 2130772061;
+    public static final int reverseLayout = 2130772063;
+    public static final int spanCount = 2130772062;
+    public static final int stackFromEnd = 2130772064;
+
+    public R$attr() {
+    }
+}

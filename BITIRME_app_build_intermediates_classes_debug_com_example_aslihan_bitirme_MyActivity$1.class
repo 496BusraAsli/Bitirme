@@ -1,0 +1,21 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by Fernflower decompiler)
+//
+
+package com.example.aslihan.bitirme;
+
+import android.support.design.widget.Snackbar;
+import android.view.View;
+import android.view.View.OnClickListener;
+import com.example.aslihan.bitirme.MyActivity;
+
+class MyActivity$1 implements OnClickListener {
+    MyActivity$1(MyActivity this$0) {
+        this.this$0 = this$0;
+    }
+
+    public void onClick(View view) {
+        Snackbar.make(view, "Replace with your own action", 0).setAction("Action", (OnClickListener)null).show();
+    }
+}
